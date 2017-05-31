@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#ffffffff</color>
+
+    <!-- https://uigradients.com -->
+    <color name="blueStart">#4EFFF3</color>
+    <color name="blueEnd">#0ca6f9</color>
+    <color name="purpleStart">#a369ff</color>
+    <color name="purpleEnd">#0e56ff</color>
+    <color name="roseStart">#FF6A00</color>
+    <color name="roseEnd">#ef0276</color>
+    <color name="greenStart">#a7f56e</color>
+    <color name="greenEnd">#11c612</color>
+    <color name="violetStart">#8e54e9</color>
+    <color name="violetEnd">#4776E6</color>
+    <color name="celestialStart">#1D2671</color>
+    <color name="celestialEnd">#C33764</color>
+    <color name="loveStart">#89253e</color>
+    <color name="loveEnd">#3a6186</color>
+    <color name="flickrStart">#33001b</color>
+    <color name="flickrEnd">#ff0084</color>
+    <color name="riverStart">#185a9d</color>
+    <color name="riverEnd">#43cea2</color>
+    <color name="danceStart">#F9D423</color>
+    <color name="danceEnd">#FF4E50</color>
+    <color name="kyotoStart">#ffc500</color>
+    <color name="kyotoEnd">#c21500</color>
+    <color name="beachStart">#cbad6d</color>
+    <color name="beachEnd">#d53369</color>
+
+</resources>
